@@ -62,5 +62,5 @@ elif tipo_de_cadastro == "pj":
         print(pj.estado)
 
 else:
-        print("tipo de cadastro não econtrado por favor escola pf ou pj")
+        print("tipo de cadastro não econtrado por favor escolha pf ou pj")
 
